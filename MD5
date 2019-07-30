@@ -1,8 +1,8 @@
-0fa5de00d803b399260a7ca5de8b1c9c *DESCRIPTION
-c4ce21b2e85e09b3a07c75ab50b6d657 *NAMESPACE
+cf2f4b677ec57f88f6b6f661f88f779c *DESCRIPTION
+4aae0ab80606c86df740299c0ce29415 *NAMESPACE
 1ed3c12ea7fb86a41032af0f24e77a83 *R/Cobb_and_Douglas.R
 80b9a2e77c10da46998354cb8fb6c6f4 *R/Misc.R
-7f6f9ed0bb9b473add1d9446e60b5fa0 *R/Nash_Equilibrium.R
+c0cc20e054de92658418d1bfeb5c23a6 *R/Nash_Equilibrium.R
 e5098206fbd7181aa43584556b7d590c *R/growth_models_steady_states.R
 5951e0bd722109bd074a8ca1138bb38c *R/imperfect_competition.R
 427b7e9114b63d45ca14f236990ea8ea *man/MRW_steady_state.Rd
@@ -11,7 +11,6 @@ c7a3178c4c48b628e0df690982b81833 *man/cobb_douglas.Rd
 4200c2231ea52231f66acec534734fea *man/cournot_solver.Rd
 26639626f7a344c0364f9e48a528e74d *man/grid2.Rd
 a20c325511c0be26c1f3aab0c2429bab *man/monopoly_solver.Rd
-60f8accaa017bbbe6aced2c0183d569f *man/sim_mixed_nasheq.Rd
-c5bd20a0db5e6a9b2c7306ab88c163fe *man/sim_pure_nasheq.Rd
+6f3cb276c84f845fc251fca5f7d482ce *man/sim_nasheq.Rd
 a46a211ca967b67b1a3f0a13551fb9cb *man/solow_steady_state.Rd
 f0f6ff148af39861a61fbe8c1b0e03d3 *man/stackelberg_solver.Rd
